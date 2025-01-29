@@ -13,8 +13,8 @@ Install Yarn: https://yarnpkg.com/lang/en/docs/install/
 Clone and install dependencies:
 
 ```bash
-$ git clone git@github.com:chuntley/react-boilerplate.git
-$ cd react-boilerplate
+$ git clone git@github.com:wanandonly/react-19-boilerplate.git
+$ cd react-19-boilerplate
 $ yarn
 ```
 
